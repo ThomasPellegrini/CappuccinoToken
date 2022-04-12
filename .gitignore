@@ -1,0 +1,7 @@
+.*
+~*
+
+# track these files, if they exist
+!.editorconfig
+!.env.example
+!.gitignore
